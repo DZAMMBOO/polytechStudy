@@ -1,0 +1,61 @@
+<test>
+	<head> БАЗОВЫЕ ЭЛЕМЕНТЫ ЯЗЫКА C# </head>
+	<description> Данный тест создан для того, чтобы проверить, на сколько хорошо вы усвоили материал темы. </description>
+	<qwestion> 
+		<q value="4" text="Каким классом опбозначается программа?">
+            <a right="yes">(Programm)</a>
+            <a right="no">(Main)</a>
+            <a right="no">(Start)</a>
+            <a right="no">(Process)</a>
+        </q>
+        <q value="4" text="Как обозначается главная функция программы C#?">
+            <a right="yes">Main</a>
+            <a right="no">Class</a>
+            <a right="no">Programm</a>
+            <a right="no">Start</a>
+        </q>
+        <q value="3" text="Логическая переменная в C#">
+            <a right="yes">bool</a>
+            <a right="no">double</a>
+            <a right="no">float</a>
+        </q>
+        <q value="3" text="Cтроковая переменная в C#">
+            <a right="no">int</a>
+            <a right="yes">string</a>
+            <a right="no">float</a>
+        </q>
+        <q value="3" text="4 байтовая переменная со знаком - это...">
+            <a right="no">float</a>
+            <a right="yes">int</a>
+            <a right="no">double</a>
+        </q>
+        <q value="3" text="int x = 12; x += 3; x = ?">
+            <a right="no">24</a>
+            <a right="yes">15</a>
+            <a right="no">12</a>
+        </q>
+        <q value="3" text="int x = 12; x++; x = ?">
+            <a right="no">12</a>
+            <a right="yes">13</a>
+            <a right="no">15</a>
+        </q>
+        <q value="3" text="if/else - это">
+            <a right="no">Логическое выражение</a>
+            <a right="no">Просто буквы</a>
+            <a right="yes">Условный оператор</a>
+        </q>
+        <q value="3" text="s = Console.Readline() - что мы делаем?">
+            <a right="no">Что-то</a>
+            <a right="yes">Вводим через консоль значение переменной - s</a>
+            <a right="no">Выводим значение переменной s в консоль.</a>
+        </q>
+        <q value="3" text="Console.Writeline(s) - что мы делаем?">
+            <a right="no">Что-то</a>
+            <a right="no">Вводим через консоль значение переменной - s</a>
+            <a right="yes">Выводим значение переменной s в консоль.</a>
+        </q>
+	</qwestion>
+	<levels>
+        <level score="4" text="Вы разбираетесь в истории C#"></level>
+    </levels>
+</test>
